@@ -1,1 +1,0 @@
-const availableImg = ["anastasiou2022generation","Beck2016Visual","choi2021trajgail","hou2025vehicle","kong2023mobility","kong2024traffic","li2023trajectory","wang2024urban","wei2024diff","zheng2015trajectory","zhu2022knowledge"];
